@@ -1,6 +1,6 @@
 # GameOfLife
 
-Authors Rufat Huseynov and Shirin Shukurov
+Authors Shirin Shukurov and Rufat Huseynov
 
 The Game Of Life Application clipped version. Check out the **circular branch** to see circular version of application.
 
